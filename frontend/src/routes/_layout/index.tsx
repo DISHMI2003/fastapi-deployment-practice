@@ -23,7 +23,8 @@ function Dashboard() {
           Hi, {currentUser?.full_name || currentUser?.email} 👋
         </h1>
         <p className="text-muted-foreground">
-         Welcome back from GitHub Actions 🚀
+          Welcome back from GitHub Actions 🚀
+        </p>
       </div>
     </div>
   )
